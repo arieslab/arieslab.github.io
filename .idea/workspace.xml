@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="07a9310f-9872-478e-8b81-b6a03bd04c12" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/HeitorCosta.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/HeitorCosta.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/Larissa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/Larissa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/ivanmachado.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/ivanmachado.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/team/photothumb.db" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/photothumb.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -38,7 +42,7 @@
       <updated>1602260037422</updated>
       <workItem from="1602260039360" duration="8919000" />
       <workItem from="1605705703177" duration="1942000" />
-      <workItem from="1609851877792" duration="9013000" />
+      <workItem from="1609851877792" duration="10007000" />
     </task>
     <servers />
   </component>
