@@ -3,8 +3,22 @@
   <component name="ChangeListManager">
     <list default="true" id="07a9310f-9872-478e-8b81-b6a03bd04c12" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/photothumb.db" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/photothumb.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/photothumb.db" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/photothumb.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/photothumb.db" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/photothumb.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/Adriana.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/Adriana.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/DanielDavid.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/DanielDavid.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/DenivanCampos_3x4.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/DenivanCampos_3x4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/HeitorCosta.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/HeitorCosta.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/Imagem__Joselito.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/Imagem__Joselito.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/JonathanBispo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/JonathanBispo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/Larissa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/Larissa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/Nailton.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/Nailton.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/Nildo_Silva.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/Nildo_Silva.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/Railana.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/Railana.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/SaraLimaLattes.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/SaraLimaLattes.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/daniele.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/daniele.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/ivanmachado.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/ivanmachado.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/luana.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/luana.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/tassio.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team/tassio.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +53,7 @@
       <updated>1602260037422</updated>
       <workItem from="1602260039360" duration="8919000" />
       <workItem from="1605705703177" duration="1942000" />
+      <workItem from="1609851877792" duration="6744000" />
     </task>
     <servers />
   </component>
