@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07a9310f-9872-478e-8b81-b6a03bd04c12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/arieslab.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arieslab/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arieslab.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +66,7 @@
       <workItem from="1605705703177" duration="1942000" />
       <workItem from="1609851877792" duration="10007000" />
       <workItem from="1620303745576" duration="3953000" />
-      <workItem from="1620764556882" duration="339000" />
+      <workItem from="1620764556882" duration="1426000" />
     </task>
     <servers />
   </component>
