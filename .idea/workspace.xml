@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07a9310f-9872-478e-8b81-b6a03bd04c12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/arieslab/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arieslab.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +66,7 @@
       <workItem from="1609851877792" duration="10007000" />
       <workItem from="1620303745576" duration="3953000" />
       <workItem from="1620764556882" duration="1426000" />
+      <workItem from="1626288182264" duration="2581000" />
     </task>
     <servers />
   </component>
@@ -83,6 +83,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="509" y="0" width="587" height="728" key="find.popup" timestamp="1602260086986">
