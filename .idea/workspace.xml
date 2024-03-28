@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="098988ba-c891-4287-991f-d7aaf74babf6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/img/people/HeitorCosta.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/people/HeitorCosta.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/people/Larissa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/people/Larissa.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/people/Matheus.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/people/Matheus.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/people/brunna_caroline.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/people/daniele.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/people/daniele.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/people/ivanmachado.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/people/ivanmachado.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/people/joaopedro.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/people/joaopedro.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/people/leila.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/people/leila.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/people/railana.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/people/railana.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/people/renata.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/people/renata.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/awards.html" beforeDir="false" afterPath="$PROJECT_DIR$/awards.html" afterDir="false" />
+    <list default="true" id="d3c4bc3e-1a48-48d7-bc38-efa3623fc034" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/universidades/Cópia_de_segurança_de_UFBA.cdr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/universidades/UEFS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/universidades/UFBA.cdr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/universidades/UFBA.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/universidades/UFBA.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/universidades/UFLA.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/universidades/UFLA.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/universidades2/uefs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/universidades2/ufba.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/universidades2/ufla.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/people.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/publications.html" beforeDir="false" afterPath="$PROJECT_DIR$/publications.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tools.html" beforeDir="false" afterPath="$PROJECT_DIR$/tools.html" afterDir="false" />
     </list>
@@ -29,42 +35,56 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="28lHy6aB3BIHV4G8sxqBqdHVRkf" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2eJtjVu0lHHLZIcqDPi3Sd0rMRB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Flattern" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="vue.rearranger.settings.migration" value="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "gh-pages",
+    "last_opened_file_path": "/Users/railanasantana/Documents/Workspace/arieslab.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.15026.12" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="098988ba-c891-4287-991f-d7aaf74babf6" name="Default Changelist" comment="" />
-      <created>1651784503829</created>
+      <changelist id="d3c4bc3e-1a48-48d7-bc38-efa3623fc034" name="Changes" comment="" />
+      <created>1711634645216</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1651784503829</updated>
-      <workItem from="1651784505301" duration="2895000" />
+      <updated>1711634645216</updated>
+      <workItem from="1711634646447" duration="6171000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="-867" y="-302" key="FileChooserDialogImpl" timestamp="1651785265606">
-      <screen x="-1080" y="-805" width="864" height="1496" />
-    </state>
-    <state x="-867" y="-302" key="FileChooserDialogImpl/0.0.1366.728/-1080.-805.864.1496@-1080.-805.864.1496" timestamp="1651785265606" />
   </component>
 </project>
